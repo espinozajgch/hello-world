@@ -1,1 +1,3 @@
 prueba del curso de git y github
+
+realizando un git reset
