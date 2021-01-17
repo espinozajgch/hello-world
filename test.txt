@@ -1,3 +1,5 @@
 prueba del curso de git y github
 
 realizando un git reset
+
+haciendo un git checkout de un archivo
