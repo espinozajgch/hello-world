@@ -1,7 +1,7 @@
-# hello-world
-my first repository, i'm happy
+## hello-world
+My first repository, I'm happy
 
-i dont know what to say
+I dont know what to say
 
 ####Configura tus llaves SSH en local
 Primer paso: Generar tus llaves SSH. Recuerda que es muy buena idea proteger tu llave privada con una contraseña.
@@ -56,3 +56,10 @@ Comandos para trabajar con etiquetas:
 - Borrar un tag del repositorio remoto: git tag -d nombre-del-tag y git push origin :refs/tags/nombre-del-tag.
 
 `git config --global alias.superlog "log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"`
+
+#### Readme.md es una excelente práctica
+README.md es una excelente práctica en tus proyectos, md significa Markdown, que es una especie de código que te permite cambiar la manera en que se ve un archivo de texto.
+
+Lo interesante de Markdown es que funciona en muchas páginas, por ejemplo la edición en Wikipedia; es un lenguaje intermedio que no es HTML, no es texto plano, es una manera de crear excelentes texto formateados.
+
+[`https://pandao.github.io/editor.md/en.html`]
