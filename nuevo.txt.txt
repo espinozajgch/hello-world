@@ -1,5 +1,0 @@
-nuevo arcgivo
-
-otro commit mas
-
-commit con nuevo comando de nuevo
