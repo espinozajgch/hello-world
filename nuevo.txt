@@ -1,4 +1,4 @@
-nuevo arcgivo
+nuevo archivo
 
 otro commit mas
 
